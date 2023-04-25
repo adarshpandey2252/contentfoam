@@ -1,0 +1,24 @@
+@media screen and (max-width: 580px) {
+   #logo{
+    width: 69px;
+    margin-left: 10px;
+   }
+   #bar{
+    background-color: white;
+    color: gold;
+   }
+
+   #navbarSupportedContent{
+    margin-left: 0px;
+  }
+  #navbarSupportedContent ul li a{
+      padding: 5px 2px;
+  }
+  #main h1{
+    font-size: 35px;
+  }
+  footer{
+    margin-top: 40px;
+  }
+  
+  }
